@@ -2,7 +2,7 @@
 
 ## Project 1: Life Expectancy Analysis
 
-### Deatils
+### Details
 Name: Damar Shipp Jr
 
 Class: DSB-1015
